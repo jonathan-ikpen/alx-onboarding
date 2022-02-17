@@ -1,0 +1,21 @@
+
+
+1.  Initialize variable Sum, Value, Square and Numbers.
+    set Sum to zero
+
+2.  set variable Numbers to ask the number of inputs.
+
+3.  Initialize Counter to zero and keep incrementing by one
+
+4.  set variable Value to request number (first number, second number,...)
+
+5.  set variable Square to the square of Value (Value * Value)
+
+6.  set variable Sum to add Square (from the previous step) to itself
+
+7.  if Counter < Numbers repeat steps 4 to 6
+
+8.  Display the Sum of all squares of the given inputs.
+
+  
+
